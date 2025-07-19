@@ -9,7 +9,7 @@
 </div>
 
 <form method="GET" action="{{ route('encyclopedie.search') }}">
-    <input type="text" name="q" value="{{ old('q', $q ?? '') }}" placeholder="Buscar por nombre o descripción">
+    <input type="text" name="q" value="{{ old('q', $q ?? '') }}" placeholder="Buscar por nombre o descripción (en Fr)">
     <select name="category">
         <option value="">Todas las categorías</option>
         {{-- Ejemplo de categorías, reemplaza por las que tengas --}}

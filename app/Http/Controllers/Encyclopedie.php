@@ -124,20 +124,24 @@ class Encyclopedie extends Controller
     return view('encyclopedie.search', compact('items', 'q', 'category', 'level'));
 	}
 	private function mapTypeToCategory($type)
-	{
-    return match(true) {
-        $type === 1 => 'Amuleto',
-        $type === 9 => 'Anillo',
-        $type === 10 => 'Cinturón',
-        $type === 11 => 'Bota',
-        $type === 16 => 'Sombrero',
-        $type === 17 => 'Capa',
-        $type === 23 => 'Dofus',
-        $type === 18 => 'Mascota',
-        in_array($type, [2, 3, 4, 5, 6, 7, 8]) => 'Armas',
-        $type === 82 => 'Escudo',
-        default => 'Otros',
-    };
-	}
+{
+    switch ($type) {
+        case 1: return 'Amuleto';
+        case 9: return 'Anillo';
+        case 10: return 'Cinturón';
+        case 11: return 'Bota';
+        case 16: return 'Sombrero';
+        case 17: return 'Capa';
+        case 23: return 'Dofus';
+        case 18: return 'Mascota';
+        case 82: return 'Escudo';
+        default:
+            if (in_array($type, [2, 3, 4, 5, 6, 7, 8])) {
+                return 'Armas';
+            }
+            return 'Otros';
+    }
+}
+
 
 }
