@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Redirection en cours...</title>
+	<meta name="robots" content="noindex nofollow">
+	<style type="text/css">
+		html {
+			background-color: #22272e;
+			color: #ffff;
+		}
+	</style>
+</head>
+<body>
+<p>Vous allez être rediriger vers <span id="link">{{ link }}</span> dans <span id="seconds">{{ seconds }}</span> secondes.</p>
+<script type="text/javascript">
+	var link = 'https://newlynameds.github.io/DofusItems';
+	var seconds = 1;
+	var foo;
+	var default_seconds = seconds;
+
+	document.getElementById("link").innerHTML = link;
+	document.getElementById("seconds").innerHTML = default_seconds;
+		
+	function redirect() {
+		document.location.href = link;
+	}
+
+	function updateSecs() {
+		document.getElementById("seconds").innerHTML = seconds;
+		seconds--;
+		if (seconds == -1) {
+		    clearInterval(foo);
+		    redirect();
+		}
+	}
+
+	function countdownTimer() {
+		foo = setInterval(function () {
+		    updateSecs()
+		}, 1000);
+	}
+
+	countdownTimer();
+</script>
+</body>
+</html>

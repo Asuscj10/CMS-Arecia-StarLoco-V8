@@ -1,0 +1,407 @@
+  .ak-server-list .server span {
+    display: inline-block;
+    position: relative;
+    margin: 0 0.5em 0 0;
+    width: 35px;
+    height: 35px;
+    border: 1px solid;
+    vertical-align: middle; }
+  .ak-server-list .server span {
+    border-color: #b1ac9c; }
+
+.server span {
+  background: url("../img/pictures/servers.jpg") 0 -2069px no-repeat; }
+
+.server_40 span {
+  background-position: 0 0; }
+
+.server_36 span {
+  background-position: 0 -39px; }
+
+.server_4002 span {
+  background-position: 0 -78px; }
+
+.server_19 span {
+  background-position: 0 -117px; }
+
+.server_4001 span {
+  background-position: 0 -156px; }
+
+.server_15 span {
+  background-position: 0 -195px; }
+
+.server_4005 span {
+  background-position: 0 -234px; }
+
+.server_37 span {
+  background-position: 0 -273px; }
+
+.server_11 span {
+  background-position: 0 -312px; }
+
+.server_4003 span {
+  background-position: 0 -351px; }
+
+.server_32 span {
+  background-position: 0 -390px; }
+
+.server_24 span {
+  background-position: 0 -429px; }
+
+.server_7001 span {
+  background-position: 0 -468px; }
+
+.server_3 span {
+  background-position: 0 -507px; }
+
+.server_14 span {
+  background-position: 0 -546px; }
+
+.server_4007 span {
+  background-position: 0 -585px; }
+
+.server_601 span {
+  background-position: 0 -624px; }
+
+.server_9001 span {
+  background-position: 0 -663px; }
+
+.server_35 span {
+  background-position: 0 -702px; }
+
+.server_27 span {
+  background-position: 0 -741px; }
+
+.server_5 span {
+  background-position: 0 -780px; }
+
+.server_23 span {
+  background-position: 0 -819px; }
+
+.server_6002 span {
+  background-position: 0 -858px; }
+
+.server_18 span {
+  background-position: 0 -897px; }
+
+.server_17 span {
+  background-position: 0 -936px; }
+
+.server_1 span {
+  background-position: 0 -975px; }
+
+.server_25 span {
+  background-position: 0 -1014px; }
+
+.server_33 span {
+  background-position: 0 -1053px; }
+
+.server_21 span {
+  background-position: 0 -1092px; }
+
+.server_9 span {
+  background-position: 0 -1131px; }
+
+.server_30 span {
+  background-position: 0 -1170px; }
+
+.server_7 span {
+  background-position: 0 -1209px; }
+
+.server_26 span {
+  background-position: 0 -1248px; }
+
+.server_3001 span {
+  background-position: 0 -1287px; }
+
+.server_4006 span {
+  background-position: 0 -1326px; }
+
+.server_22 span {
+  background-position: 0 -1365px; }
+
+.server_20 span {
+  background-position: 0 -1404px; }
+
+.server_5001 span {
+  background-position: 0 -1443px; }
+
+.server_12 span {
+  background-position: 0 -1482px; }
+
+.server_4 span {
+  background-position: 0 -1521px; }
+
+.server_8 span {
+  background-position: 0 -1560px; }
+
+.server_2 span {
+  background-position: 0 -1599px; }
+
+.server_16 span {
+  background-position: 0 -1638px; }
+
+.server_1001 span {
+  background-position: 0 -1677px; }
+
+.server_13 span {
+  background-position: 0 -1716px; }
+
+.server_10 span {
+  background-position: 0 -1755px; }
+
+.server_31 span {
+  background-position: 0 -1794px; }
+
+.server_6001 span {
+  background-position: 0 -1833px; }
+
+.server_6 span {
+  background-position: 0 -1872px; }
+
+.server_28 span {
+  background-position: 0 -1950px; }
+
+.server_29 span {
+  background-position: 0 -1989px; }
+
+.server_41 span {
+  background-position: 0 -2028px; }
+}
+	
+.ak-server-list .statut span {
+}
+	
+.statut_off span {
+	background: url("../img/icones/off.png") no-repeat;
+	display: inline-block;
+    position: relative;
+    margin: 0 0.5em 0 0;
+	width: 16px;
+    height: 15px;
+}
+
+.statut_on span {
+	background: url("../img/icones/on.png") no-repeat;
+	display: inline-block;
+    position: relative;
+    margin: 0 0.5em 0 0;
+	width: 16px;
+    height: 15px;
+}
+
+.statut_online span {
+	background: url("../img/icones/online.png") no-repeat;
+	display: inline-block;
+    position: relative;
+    margin: 0 0.5em 0 0;
+	width: 28px;
+    height: 18px;
+}
+
+.statut_offline span {
+	background: url("../img/icones/offline.png") no-repeat;
+	display: inline-block;
+    position: relative;
+    margin: 0 0.5em 0 0;
+	width: 22px;
+    height: 20px;
+}
+
+.ak-list-perso .perso span {
+    display: inline-block;
+    position: relative;
+    margin: 0 0.5em 0 0;
+    width: 35px;
+    height: 35px;
+    border: 1px solid;
+    vertical-align: middle;}
+
+.race_feca_m span {
+	background: url("../img/persos/race/headsMed/mini/1_0.png") no-repeat;
+}
+
+.race_feca_f span {
+	background: url("../img/persos/race/headsMed/mini/1_1.png") no-repeat;
+}
+
+.race_osa_m span {
+	background: url("../img/persos/race/headsMed/mini/2_0.png") no-repeat;
+}
+
+.race_osa_f span {
+	background: url("../img/persos/race/headsMed/mini/2_1.png") no-repeat;
+}
+
+.race_enu_m span {
+	background: url("../img/persos/race/headsMed/mini/3_0.png") no-repeat;
+}
+
+.race_enu_f span {
+	background: url("../img/persos/race/headsMed/mini/3_1.png") no-repeat;
+}
+
+.race_sram_m span {
+	background: url("../img/persos/race/headsMed/mini/4_0.png") no-repeat;
+}
+
+.race_sram_f span {
+	background: url("../img/persos/race/headsMed/mini/4_1.png") no-repeat;
+}
+
+.race_xelor_m span {
+	background: url("../img/persos/race/headsMed/mini/5_0.png") no-repeat;
+}
+
+.race_xelor_f span {
+	background: url("../img/persos/race/headsMed/mini/5_1.png") no-repeat;
+}
+
+.race_eca_m span {
+	background: url("../img/persos/race/headsMed/mini/6_0.png") no-repeat;
+}
+
+.race_eca_f span {
+	background: url("../img/persos/race/headsMed/mini/6_1.png") no-repeat;
+}
+
+.race_eni_m span {
+	background: url("../img/persos/race/headsMed/mini/7_0.png") no-repeat;
+}
+
+.race_eni_f span {
+	background: url("../img/persos/race/headsMed/mini/7_1.png") no-repeat;
+}
+
+.race_iop_m span {
+	background: url("../img/persos/race/headsMed/mini/8_0.png") no-repeat;
+}
+
+.race_iop_f span {
+	background: url("../img/persos/race/headsMed/mini/8_1.png") no-repeat;
+}
+
+.race_cra_m span {
+	background: url("../img/persos/race/headsMed/mini/9_0.png") no-repeat;
+}
+
+.race_cra_f span {
+	background: url("../img/persos/race/headsMed/mini/9_1.png") no-repeat;
+}
+
+.race_sadi_m span {
+	background: url("../img/persos/race/headsMed/mini/10_0.png") no-repeat;
+}
+
+.race_sadi_f span {
+	background: url("../img/persos/race/headsMed/mini/10_1.png") no-repeat;
+}
+
+.race_sacri_m span {
+	background: url("../img/persos/race/headsMed/mini/11_0.png") no-repeat;
+}
+
+.race_sacri_f span {
+	background: url("../img/persos/race/headsMed/mini/11_1.png") no-repeat;
+}
+
+.race_panda_m span {
+	background: url("../img/persos/race/headsMed/mini/12_0.png") no-repeat;
+}
+
+.race_panda_f span {
+	background: url("../img/persos/race/headsMed/mini/12_1.png") no-repeat;
+}
+
+.ak-list-carac .carac span {
+    display: inline-block;
+    position: relative;
+    margin: 0 5px 0 5px;
+    width: 17px;
+    height: 16px;
+    vertical-align: sub;}
+
+.carac_vit span {
+	background: url("../img/icones/carac/vit.png") no-repeat;
+}
+.carac_sag span {
+	background: url("../img/icones/carac/sag.png") no-repeat;
+}
+.carac_int span {
+	background: url("../img/icones/carac/int.png") no-repeat;
+}
+.carac_for span {
+	background: url("../img/icones/carac/for.png") no-repeat;
+}
+.carac_agi span {
+	background: url("../img/icones/carac/air.png") no-repeat;
+}
+.carac_cha span {
+	background: url("../img/icones/carac/eau.png") no-repeat;
+}
+.carac_neu span {
+	background: url("../img/icones/carac/neutre.png") no-repeat;
+}
+.carac_pp span {
+	background: url("../img/icones/carac/pp.png") no-repeat;
+}
+.carac_pm span {
+	background: url("../img/icones/carac/pm.png") no-repeat;
+}
+.carac_pa span {
+	background: url("../img/icones/carac/pa.png") no-repeat;
+}
+.carac_po span {
+	background: url("../img/icones/carac/po.png") no-repeat;
+}
+.carac_cc span {
+	background: url("../img/icones/carac/cc.png") no-repeat;
+}
+.carac_invo span {
+	background: url("../img/icones/carac/invo.png") no-repeat;
+}
+.carac_ini span {
+	background: url("../img/icones/carac/ini.png") no-repeat;
+}
+.carac_soins span {
+	background: url("../img/icones/carac/soins.png") no-repeat;
+}
+.carac_dom span {
+	background: url("../img/icones/carac/dom.png") no-repeat;
+}
+.carac_dom_% span {
+	background: url("../img/icones/carac/dom_%.png") no-repeat;
+}
+.carac_esquive_pa_- span {
+	background: url("../img/icones/carac/esquive_pa_-.png") no-repeat;
+}
+.carac_esquive_pa_+ span {
+	background: url("../img/icones/carac/esquive_pa_+.png") no-repeat;
+}
+.carac_esquive_pm_- span {
+	background: url("../img/icones/carac/esquive_pm_-.png") no-repeat;
+}
+.carac_esquive_pm_+ span {
+	background: url("../img/icones/carac/esquive_pm_+.png") no-repeat;
+}
+.carac_pp span {
+	background: url("../img/icones/carac/pp.png") no-repeat;
+}
+.carac_dom_pg span {
+  background: url("../img/icones/carac/dom_pg.png") no-repeat;
+}
+.carac_r_t span {
+  background: url("../img/icones/carac/r_t.png") no-repeat;
+}
+.carac_r_f span {
+  background: url("../img/icones/carac/r_f.png") no-repeat;
+}
+.carac_r_a span {
+  background: url("../img/icones/carac/r_a.png") no-repeat;
+}
+.carac_r_e span {
+  background: url("../img/icones/carac/r_e.png") no-repeat;
+}
+.carac_r_n span {
+  background: url("../img/icones/carac/r_n.png") no-repeat;
+}

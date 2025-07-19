@@ -1,0 +1,52 @@
+.show_all_option{
+	font-family: verdana;
+	font-size: 12px;
+}
+.interface_item{
+	font-family: verdana;
+	font-size: 10px;
+}
+.interface_bas_montrer{
+	font-family: verdana;
+	font-size: 12px;
+	color: #706741;
+}
+.interface_haut_menu{
+	font-family: verdana;
+	font-size: 10px;
+	color: #706741;
+}
+.coord{
+	font-family: verdana;
+	font-size: 12px;
+	font-weight:bold;
+	color: #FFFFFF;
+}
+.infobulleItem{
+	font-family: verdana;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight:normal;
+}
+.interface_popup_titre{
+	font-family: verdana;
+	font-size: 20px;
+	color: #222222;
+}
+.interface_popup_corps{
+	font-family: verdana;
+	font-size: 12px;
+	color: #222222;
+	text-align: justify;
+}
+.interface_popup_titre2{
+	font-family: verdana;
+	font-size: 16px;
+	color: #222222;
+	text-align: justify;
+}
+.interface_miniatureMap_titre{
+	font-family: verdana;
+	font-size: 14px;
+	color: #222222;
+}

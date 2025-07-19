@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="latin-1"?>
+<file_list onError="stop">
+	<file type="appli" label="Application" src="flash/map/map.swf" />
+	<file type="xml" label="Base de donnée" src="flash/map/bdd.xml" />
+	<file type="clip" label="Bibliothèque" src="flash/media/swf/biblio.swf" />
+	<file type="clip" label="Localisations images" src="flash/media/swf/dataMapOrdered.swf" />
+	<file type="clip" label="Noms des zones" src="flash/media/swf/maps_fr_269.swf" />
+	<file type="clip" label="Image carte" src="flash/media/swf/map_background.swf" />
+	<file type="clip" label="Caractéristiques monstres" src="flash/media/swf/dataMonster.swf" />
+	<file type="clip" label="Feuille de styles" src="flash/map/map.css" />
+</file_list>
